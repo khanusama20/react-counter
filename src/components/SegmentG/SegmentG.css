@@ -1,0 +1,21 @@
+.segment-g {
+  position: relative;
+  top: -692px;
+  left: 15px;
+}
+
+.trapezoid-shape-top-G {
+  border-bottom: 17px solid #b0beac;
+  border-left: 18px solid transparent;
+  border-right: 20px solid transparent;
+  height: 0;
+  width: 177px;
+}
+
+.trapezoid-shape-bottom-G {
+  border-top: 17px solid #b0beac;
+  border-left: 18px solid transparent;
+  border-right: 20px solid transparent;
+  height: 0;
+  width: 177px;
+}

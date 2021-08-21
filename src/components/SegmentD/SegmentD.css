@@ -1,0 +1,21 @@
+.segment-d {
+  position: relative;
+  bottom: 447px;
+  left: 12px;
+}
+
+.trapezoid-shape-top-D {
+  border-bottom: 20px solid #b0beac;
+  border-left: 20px solid transparent;
+  border-right: 21px solid transparent;
+  height: 0;
+  width: 179px;
+}
+
+.trapezoid-shape-bottom-D {
+  border-top: 10px solid #b0beac;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  height: 0;
+  width: 200px;
+}

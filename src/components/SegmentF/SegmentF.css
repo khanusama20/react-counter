@@ -1,0 +1,22 @@
+.segment-f {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  left: -1px;
+  top: -226px;
+}
+
+.trapezoid-shape-right-F {
+  border-top: 20px solid transparent;
+  border-left: 21px solid #b0beac;
+  border-bottom: 20px solid transparent;
+  height: 170px;
+  width: 0px;
+}
+
+.trapezoid-shape-left-F {
+  border-top: 10px solid transparent;
+  border-right: 10px solid #b0beac;
+  height: 200px;
+  width: 0px;
+}

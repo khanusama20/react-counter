@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+.led {
+  width: 244px;
+  height: 452px;
+  background-color: #282c34;
+  margin-top: 50px;
+  padding: 75px;
+}

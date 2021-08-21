@@ -1,0 +1,27 @@
+.segment-c {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  left: 214px;
+  top: -222px;
+}
+
+.trapezoid-shape-right-C {
+  /* border-top: 10px solid transparent;
+  border-left: 10px solid #b0beac;
+  border-right: 10px solid transparent; */
+
+  border-bottom: 10px solid transparent;
+  border-left: 10px solid #b0beac;
+  border-right: 10px solid transparent;
+  height: 200px;
+  width: 0px;
+}
+
+.trapezoid-shape-left-C {
+  border-top: 17px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-right: 20px solid #b0beac;
+  height: 173px;
+  width: 0px;
+}
