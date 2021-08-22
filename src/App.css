@@ -38,10 +38,47 @@
 }
 
 
+.device-row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
 .led {
-  width: 244px;
-  height: 452px;
+  width: 408px;
+  height: 563px;
   background-color: #282c34;
   margin-top: 50px;
-  padding: 75px;
 }
+
+.LED-inner {
+  position: relative;
+  left: 55px;
+  top: 55px;
+  /* transform: rotate(6deg); */
+  height: 454px;
+  width: 243px;
+}
+
+.dot-indicator {
+  height: 45px;
+  width: 45px;
+  background-color: #b0beac70;
+  border-radius: 50%;
+  position: relative;
+  bottom: -9px;
+  left: 320px;
+}
+
+/* button {
+  background-color: blue;
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 7px;
+} */

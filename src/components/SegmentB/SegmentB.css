@@ -9,7 +9,7 @@
 
 .trapezoid-shape-right-B {
   border-top: 10px solid transparent;
-  border-left: 10px solid #b0beac;
+  border-left: 10px solid #b0beac70;
   border-right: 10px solid transparent;
   height: 200px;
   width: 0px;
@@ -18,7 +18,7 @@
 .trapezoid-shape-left-B {
   border-top: 19px solid transparent;
   border-bottom: 20px solid transparent;
-  border-right: 23px solid #b0beac;
+  border-right: 23px solid #b0beac70;
   height: 171px;
   width: 0px;
 }

@@ -4,11 +4,11 @@ import './SegmentC.css'
 const SegmentC = props => {
 
   let topDivStyle = props.input === 1 ? {
-    borderRightColor: 'red'
+    borderRightColor: '#ff3b19'
   } : {}
 
   let bottomDivStyle = props.input === 1 ? {
-    borderLeftColor: 'red'
+    borderLeftColor: '#ff3b19'
   } : {}
 
   return (

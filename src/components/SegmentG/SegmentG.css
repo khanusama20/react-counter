@@ -5,7 +5,9 @@
 }
 
 .trapezoid-shape-top-G {
-  border-bottom: 17px solid #b0beac;
+  /* #b0beac */
+  border-bottom: 17px solid #b0beac70;
+  /* #b0beac70 */
   border-left: 18px solid transparent;
   border-right: 20px solid transparent;
   height: 0;
@@ -13,7 +15,7 @@
 }
 
 .trapezoid-shape-bottom-G {
-  border-top: 17px solid #b0beac;
+  border-top: 17px solid #b0beac70;
   border-left: 18px solid transparent;
   border-right: 20px solid transparent;
   height: 0;
